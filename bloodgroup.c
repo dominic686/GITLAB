@@ -5,7 +5,11 @@ void main()
   int i;
   do
   {
-    printf("What is your Name? You pussy");
+<<<<<<< HEAD
+    printf("What is your Name? Fucking");
+=======
+    printf("What is your Name? Fucking");
+>>>>>>> 762930b856749501bbfa6e024118df0199f02d01
     scanf("%s", Name);
     do
     {
